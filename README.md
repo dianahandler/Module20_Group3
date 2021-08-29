@@ -5,7 +5,8 @@ Diana Handler ReadMe
 
 <!-- New branch for James Moon -->
 ## Final Project
-We are living in Covid-19 Pandemic evnvirment over 18 months. First public vanccine was released on Dec 11 2020. Comparing before and after vanccine date, what are the changes on major 5 states (CA, FL, NY, TX, MO)
+There is no doubt that we want to go back before covid world, and many people died and even currently many people suffereing because of the virus in many ways such as physically sic, eoconomical loss, health care worker's work loads are out of range long time ago, ETC. Good news is we have vaccine, and the first public vanccine was released on Dec 11 2020. So many people would wondering, when this will be over? As comparing covid cases before and after the vaccine, we might able to forcast further trend, and hopely get an idea when this will be over. 
+
 I will be collect and clean data to get ready so our team can get ready to analysis our project. 
 I will be using [Data Tracker from CDC](https://covid.cdc.gov/covid-data-tracker/#datatracker-home)
 
