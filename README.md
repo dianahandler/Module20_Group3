@@ -7,7 +7,7 @@ Diana Handler ReadMe
 ## Final Project
 We are living in Covid-19 Pandemic evnvirment over 18 months. First public vanccine was released on Dec 11 2020. Comparing before and after vanccine date, what are the changes on major 5 states (CA, FL, NY, TX, MO)
 I will be collect and clean data to get ready so our team can get ready to analysis our project. 
-I will be using Data Tracker from CDC(https://covid.cdc.gov/covid-data-tracker/#datatracker-home)
+I will be using [Data Tracker from CDC](https://covid.cdc.gov/covid-data-tracker/#datatracker-home)
 
 ### DATA SET
 1. Vaccination Trend USA - ![Vaccination Trend](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Vaccinated_Trends_USA.PNG)This data set should clean by State that focusing on the states
