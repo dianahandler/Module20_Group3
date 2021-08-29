@@ -8,7 +8,8 @@ Diana Handler ReadMe
 We are living in Covid-19 Pandemic evnvirment over 18 months. First public vanccine was released on Dec 11 2020. Comparing before and after vanccine date, what are the changes on major 5 states (CA, FL, NY, TX, MO)
 
 ### DATA SET
-1. Vaccination Trend USA - !
+1. Vaccination Trend USA - ![Vaccination Trend](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Vaccinated_Trends_USA.PNG)This data set should clean by State that focusing on the states
+2. Covide Case  - ![CAse Data](https://github.com/dianahandler/Module20_Group3/tree/JamesMoon_branch) These Data set need to clean before and after vaccine date so that we can comapre
 
 
 Sunday
