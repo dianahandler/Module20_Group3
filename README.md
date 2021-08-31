@@ -47,6 +47,11 @@ The plan is to use Google Meetings if we need to converse more directly as well.
 
 <!-- New branch for James Moon -->
 
+<!-- Diana -->
+
+## Visualization Component
+Once our data has been cleaned up and the necessary criteria has been selected, we will generate a visualization of the US map with all five states. An HTML,CSS, and JS file will be created to map out each state and coded so that they display the number of cases and deaths when the cursor hovers over it. We will utilize the leaflet library to map out each points in the map to generate our visual
+
 
 ## ETL on the Data and Machine Learning Expectations
 With the CSV's entered into the database, the expectation is to perform ETL to focus solely on Dates, Locations, total cases, total deaths, and vaccines administered cumulative. Using that data, we hope to map the trends of total cases and deaths in the 6 months prior
