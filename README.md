@@ -26,9 +26,6 @@ One of the biggest questions we hope to have insight on after analysis is whethe
 ## Description of our communication protocols
 Group 3 will be mainly using Slack and in class project time to communicate. If necessary, outside project meetings will be held.
 
-## Provisional Machine Learning Model:
-Samuel Ramos is the team member responsible for this portion. Please see his branch for further information.
-
 <!-- New branch for James Moon -->
 ## Final Project
 There is no doubt that we want to go back before covid world, and many people died and even currently many people suffereing because of the virus in many ways such as physically sic, eoconomical loss, health care worker's work loads are out of range long time ago, ETC. Good news is we have vaccine, and the first public vanccine was released on Dec 11 2020. So many people would wondering, when this will be over? As comparing covid cases before and after the vaccine, we might able to forcast further trend, and hopely get an idea when this will be over. 
