@@ -24,6 +24,10 @@ Using these two CSV's, we created the following ERD.
 ### DATA SET
 1. Vaccination Trend USA - ![Vaccination Trend](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Vaccinated_Trends_USA.PNG)This data set should be cleaned by State that focusing on the states
 2. Covide Case  - ![Case Data](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Covid_case.PNG) These Data set need to be cleaned before and after vaccine date so that we can comapre
+JamesMoon_branch
+3. Death Case - ![Death Case](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Death_Case.PNG)
+4. Vaccinated Case - ![Vacc Case](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/New_Vaccinated_Data.PNG)
+
  main
 
 ![Covid Cases and Deaths Database Sample](https://github.com/dianahandler/Module20_Group3/blob/1a715677f16b29b2e474d86e4495e6f229c584e8/Module_20_Resources/Covid%20Cases%20and%20Deaths%20Database%20Sample.png)
@@ -68,7 +72,9 @@ For this group project on Covid-19 cases/deaths vs vaccinations, we will take th
 That is not to say that unsupervised learning is of no use. On paper, **by feeding raw data of Covid-19 cases to an unsupervised learning model, we could identify the most significant factors that will better inform our subsequent ETL process and supervised learning**. Nevertheless, we will only consult unsupervised learning if the scale of our project demands it or if we want to add more relevant inputs to our analysis.
 
 <!-- New branch for Cinthia Kim -->
+main
 
+I have put link on Collect_Clean_data2 for explanation for each columns from CDC. 
 
 hello world
 
