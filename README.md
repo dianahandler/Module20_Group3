@@ -14,6 +14,9 @@ Data Resourece - [Data Tracker from CDC](https://covid.cdc.gov/covid-data-tracke
 1. Vaccination Trend USA - ![Vaccination Trend](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Vaccinated_Trends_USA.PNG)This data set should be cleaned by State that focusing on the states
 2. Covide Case  - ![Case Data](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Covid_case.PNG) These Data set need to be cleaned before and after vaccine date so that we can comapre
 3. Death Case - ![Death Case](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/Death_Case.PNG)
+4. Vaccinated Case - ![Vacc Case](https://github.com/dianahandler/Module20_Group3/blob/JamesMoon_branch/New_Vaccinated_Data.PNG)
+
+I have put link on Collect_Clean_data2 for explanation for each columns from CDC. 
 
 Sunday
 
